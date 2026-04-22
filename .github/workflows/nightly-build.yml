@@ -1,4 +1,4 @@
-# Implement to use environment secrets someday, At the moment GH Actions doesn't support those in reusable workflows (ref: https://github.com/actions/runner/issues/1490)
+# Impllement to use environment secrets someday, At the moment GH Actions doesn't support those in reusable workflows (ref: https://github.com/actions/runner/issues/1490)
 # at least that's what I found.
   name: Nightly Build
 
